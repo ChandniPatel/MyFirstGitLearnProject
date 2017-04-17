@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(getBaseContext(),"Forth Commit with new  branch chandni_local_2", Toast.LENGTH_SHORT).show();
 
         Toast.makeText(getBaseContext(),"Fifth Commit with old  branch chandni_local", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getBaseContext(),"Sixth Commit with old  branch chandni_local_2 after conflict", Toast.LENGTH_SHORT).show();
     }
 }
